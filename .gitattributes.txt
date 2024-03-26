@@ -1,8 +1,8 @@
 # File Types
-.csv
-.pdf
+*.csv
+*.pdf
 
 
 # Image Types
-.png
-.jpg
+*.png
+*.jpg
