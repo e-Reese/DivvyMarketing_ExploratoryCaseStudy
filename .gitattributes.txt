@@ -1,0 +1,8 @@
+# File Types
+.csv
+.pdf
+
+
+# Image Types
+.png
+.jpg
