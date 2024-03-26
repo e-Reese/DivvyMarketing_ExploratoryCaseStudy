@@ -9,3 +9,7 @@
 # Image Types
 *.png filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
+
+#Individual File Paths
+*/source_data/202310-divvy-tripdata.csv
+source_data/202310-divvy-tripdata.csv
