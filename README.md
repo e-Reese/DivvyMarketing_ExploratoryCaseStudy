@@ -13,4 +13,4 @@ For any questions about this work, please email: <a href="mailto:eoreese@proton.
 [Divvy Open Data](https://divvy-tripdata.s3.amazonaws.com/index.html) (Datasets 202303 - 202402 were used).
 
 ## Suggested Citation
-Reese, Ethan, 2024. "Divvy Marketing Strategy Case Study" (https://github.com/e-Reese/DivvyMarketing_ExploratoryCaseStudy)
+Reese, Ethan, 2024. "Divvy Marketing Strategy Case Study" (https://github.com/e-Reese/)
